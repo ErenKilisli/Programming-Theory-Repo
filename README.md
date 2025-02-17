@@ -25,6 +25,13 @@ Basketball Counter is a physics-based Unity (C#) project that integrates real-ti
 1. **Clone or Download** this repository:
    ```bash
    git clone https://github.com/ErenKilisli/Programming-Theory-Repo.git
-   ```
+   ``` 
 2. **Open in Unity**, Use Unity 2020+ (or a compatible version) to load the project.
 3. **Play**: Press the Play button in the Unity Editor to test the basketball scoring and difficulty features.
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify.
+
+**Author:** Ibrahim Eren Kilisli  
+For any questions or feedback, please open an issue or reach out via GitHub.
+
